@@ -1,2 +1,2 @@
 # problem-solving
-열심히 살아야지
+https://www.acmicpc.net/user/nephtys
